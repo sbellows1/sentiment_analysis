@@ -2,7 +2,7 @@
 
 Clone the repo to your local machine to ensure files are in the correct location.
 
-All code written in Python 3.7.3
+The analysis used Keras and Tensorflow, which currently only supports Python 3.6 or lower. I trained the RNNs on my GPU, if you would like to do the same, I recommend following these instructions https://medium.com/@ab9.bhatia/set-up-gpu-accelerated-tensorflow-keras-on-windows-10-with-anaconda-e71bfa9506d1
 
 ## File List
 
